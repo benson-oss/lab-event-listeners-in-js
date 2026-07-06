@@ -12,6 +12,7 @@
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.23.0",
     "jest": "^27.0.0",
+    "jest-environment-jsdom": "^30.4.1",
     "jsdom": "^22.1.0",
     "mocha-multi": "^1.1.3"
   },
