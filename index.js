@@ -3,13 +3,13 @@
 // Function to change the background color when a button is clicked
 function changeBackgroundColor() {
   // Implement the function to change background color
-   document.body.style.backgroundColor = "lightblue";
+   document.body.style.backgroundColor = "rgb(173, 216, 230)";
 }
 
 // Function to reset the background color when the body is double-clicked
 function resetBackgroundColor() {
   // Implement the function to reset background color
-document.body.style.backgroundColor = "white";
+document.body.style.backgroundColor = "";
 }
 
 // Capture Keyboard Input
