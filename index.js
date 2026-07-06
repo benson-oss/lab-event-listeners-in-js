@@ -49,7 +49,6 @@ function setupEventListeners() {
   // Attach event listener to display user input in real-time as they type
   document.getElementById('textInput').addEventListener('input', displayUserInput)
 }
-
 // Initialize event listeners when the DOM is loaded
 if (typeof window !== 'undefined') {
   document.addEventListener('DOMContentLoaded', setupEventListeners)
